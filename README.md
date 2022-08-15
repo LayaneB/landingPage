@@ -11,34 +11,17 @@
 ### Imagens
 
 ## Versão desktop
-<div style="display:flex;flex-wrap:wrap">
-  <img src="https://raw.githubusercontent.com/LayaneB/imagens/main/labenu-landing-pag1.png" width="400px" height="300px" alt="4food">
-  <img src="https://raw.githubusercontent.com/LayaneB/imagens/main/labenu-landing-pag2.png" width="400px" height="300px" alt="4food">
-  <img src="https://raw.githubusercontent.com/LayaneB/imagens/main/labenu-landing-pag3.png" width="400px" height="300px" alt="4food">
-  <img src="https://raw.githubusercontent.com/LayaneB/imagens/main/labenu-landing-pag5.PNG" width="400px" height="300px" alt="4food">
-  <img src="https://raw.githubusercontent.com/LayaneB/imagens/main/labenu-landing-pag6.PNG" width="400px" height="300px" alt="4food">
-  <img src="https://raw.githubusercontent.com/LayaneB/imagens/main/labenu-landing-pag4.PNG" width="400px" height="300px" alt="4food">
- </div>
-<!-- ![4FOOD](https://raw.githubusercontent.com/LayaneB/imagens/main/labenu-landing-pag1.png)
-![4FOOD](https://raw.githubusercontent.com/LayaneB/imagens/main/labenu-landing-pag2.png)
-![4FOOD](https://raw.githubusercontent.com/LayaneB/imagens/main/labenu-landing-pag3.png)
-![4FOOD](https://raw.githubusercontent.com/LayaneB/imagens/main/labenu-landing-pag5.png)
-![4FOOD](https://raw.githubusercontent.com/LayaneB/imagens/main/labenu-landing-pag6.png)
-![4FOOD](https://raw.githubusercontent.com/LayaneB/imagens/main/labenu-landing-pag4.png) -->
+![labenu-landing-pag1](https://user-images.githubusercontent.com/50851374/184704943-b6209210-13e8-483f-b50a-ee61a1b28725.png)
+![labenu-landing-pag2](https://user-images.githubusercontent.com/50851374/184705073-3983d7a5-4e53-4be4-8699-b8916b7ae7e2.png)
+![labenu-landing-pag3](https://user-images.githubusercontent.com/50851374/184705183-04f2eca9-c5af-486f-84c6-e6dec9c50f37.png)
+![labenu-landing-pag4](https://user-images.githubusercontent.com/50851374/184705267-0129e9b7-3495-40cb-a825-4bb62b59852e.PNG)
+![labenu-landing-pag5](https://user-images.githubusercontent.com/50851374/184705361-4f5aed09-4c86-4a4c-9839-f178265421ec.PNG)
+![labenu-landing-pag6](https://user-images.githubusercontent.com/50851374/184705530-456b4940-e25c-4e38-9618-0403f80fb2d5.PNG)
 
 ## Versão mobile
-<div style="display:flex;flex-wrap:wrap">
-  <img src="https://raw.githubusercontent.com/LayaneB/imagens/main/labenu-landing-pag-mobile-1.png" width="300px" height="400px" alt="4food">
-  <img src="https://raw.githubusercontent.com/LayaneB/imagens/main/labenu-landing-pag-mobile-2.png" width="300px" height="400px" alt="4food">
-  <img src="https://raw.githubusercontent.com/LayaneB/imagens/main/labenu-landing-pag-mobile-3.png" width="300px" height="400px" alt="4food">
-  <img src="https://raw.githubusercontent.com/LayaneB/imagens/main/labenu-landing-pag-mobile-4.PNG" width="300px" height="400px" alt="4food">
-  <img src="https://raw.githubusercontent.com/LayaneB/imagens/main/labenu-landing-pag-mobile-5.PNG" width="300px" height="400px" alt="4food">
-  <img src="https://raw.githubusercontent.com/LayaneB/imagens/main/labenu-landing-pag-mobile-6.PNG" width="300px" height="400px" alt="4food">
- </div>
-<!-- ![4FOOD](https://raw.githubusercontent.com/LayaneB/imagens/main/labenu-landing-pag-mobile-1.png)
-![4FOOD](https://raw.githubusercontent.com/LayaneB/imagens/main/labenu-landing-pag-mobile-2.png)
-![4FOOD](https://raw.githubusercontent.com/LayaneB/imagens/main/labenu-landing-pag-mobile-3.png)
-![4FOOD](https://raw.githubusercontent.com/LayaneB/imagens/main/labenu-landing-pag-mobile-4.png)
-![4FOOD](https://raw.githubusercontent.com/LayaneB/imagens/main/labenu-landing-pag-mobile-5.png)
-![4FOOD](https://raw.githubusercontent.com/LayaneB/imagens/main/labenu-landing-pag-mobile-6.png) -->
-
+![labenu-landing-pag-mobile-1](https://user-images.githubusercontent.com/50851374/184706165-904f4a64-66c6-4c80-9f58-33d6b4e70e92.png)
+![labenu-landing-pag-mobile-2](https://user-images.githubusercontent.com/50851374/184706181-5513341b-7504-4eef-880d-7350bc97cfd3.png)
+![labenu-landing-pag-mobile-3](https://user-images.githubusercontent.com/50851374/184706190-0335b532-3c33-4fea-ada6-c04837c6e174.png)
+![labenu-landing-pag-mobile-4](https://user-images.githubusercontent.com/50851374/184706211-664277cd-d66e-4bfb-acda-0712ee45d792.PNG)
+![labenu-landing-pag-mobile-5](https://user-images.githubusercontent.com/50851374/184706225-28209015-0179-4c26-9713-9e1ec83a81fa.PNG)
+![labenu-landing-pag-mobile-6](https://user-images.githubusercontent.com/50851374/184706239-febbf4af-ba1d-4c8b-8949-87b499c31d07.PNG)
